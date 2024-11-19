@@ -7,6 +7,9 @@ To design and implement a 6T SRAM (Static Random-Access Memory) cell using Caden
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+circuit diagram:
+![image](https://github.com/user-attachments/assets/ab8481b7-e925-42b1-a8dd-ac05329d3711)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
